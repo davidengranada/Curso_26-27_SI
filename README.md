@@ -1,7 +1,7 @@
-# Repositorio Curso 26 27 de Sistemas Informaticos
+# Repositorio Curso 26 27 Prueba
 
- > Autor: @David Martinez
+> Autor: @David Martinez
 
 ##Indice
 
- - Introduccion a Git y Markdown
+- Introducion 

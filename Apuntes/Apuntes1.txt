@@ -1,5 +1,27 @@
 .ssh (contraseñas de la clave ssh)
 
+git config --list- para ver las credenciales
+
 pwd comando para mostrar la ruta donde estoy
 
 ssh -T git@github.com -- > comprobar la configuracion ssh
+
+git status status-s informacion simplificada en una linea (crea un alias)
+
+?? no esta haciendose seguimiento, par ello usamos add, para hacerle seguimiento, tras add-stading area, este es una area intermedia para luego hacerle luego commit, que son estados del archivo
+
+git log --oneline ver los commits creados en una linea
+
+source ~/.bash resetea la terminal
+
+GIT-------------------
+echo "# Curso_26-27_SI" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/davidengranada/Curso_26-27_SI.git    ->>> lo conecto a la nube "ORGIN ES LA URL ESA"
+git push -u origin main
+
+
+readme en mi directorio raiz de git y hacerle un push
