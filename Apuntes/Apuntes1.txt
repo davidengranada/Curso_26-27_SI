@@ -1,0 +1,5 @@
+.ssh (contraseñas de la clave ssh)
+
+pwd comando para mostrar la ruta donde estoy
+
+ssh -T git@github.com -- > comprobar la configuracion ssh
